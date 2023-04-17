@@ -14,7 +14,7 @@
 </div>
 <br />
 <div>
-  <a href='' target='_blank'>
+  <a href='https://discord.gg/YwXzNkcw' target='_blank'>
     <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' />
   </a>
   
