@@ -1,9 +1,5 @@
 ### Sou o Higor Feijó, programador fullstack. 👋🚀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feijohigor&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feijohigor&layout=compact&theme=dracula)](https://github.com/feijohigor/github-readme-stats)
-
 <div>
   <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
